@@ -1,0 +1,15 @@
+C:\Users\tofiq\Desktop\ab104-18-10-23\ab104-18-10-23\ab104-18-10-23\obj\Debug\net6.0\ab104-18-10-23.csproj.AssemblyReference.cache
+C:\Users\tofiq\Desktop\ab104-18-10-23\ab104-18-10-23\ab104-18-10-23\obj\Debug\net6.0\ab104-18-10-23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tofiq\Desktop\ab104-18-10-23\ab104-18-10-23\ab104-18-10-23\obj\Debug\net6.0\ab104-18-10-23.AssemblyInfoInputs.cache
+C:\Users\tofiq\Desktop\ab104-18-10-23\ab104-18-10-23\ab104-18-10-23\obj\Debug\net6.0\ab104-18-10-23.AssemblyInfo.cs
+C:\Users\tofiq\Desktop\ab104-18-10-23\ab104-18-10-23\ab104-18-10-23\obj\Debug\net6.0\ab104-18-10-23.csproj.CoreCompileInputs.cache
+C:\Users\tofiq\Desktop\ab104-18-10-23\ab104-18-10-23\ab104-18-10-23\bin\Debug\net6.0\ab104-18-10-23.exe
+C:\Users\tofiq\Desktop\ab104-18-10-23\ab104-18-10-23\ab104-18-10-23\bin\Debug\net6.0\ab104-18-10-23.deps.json
+C:\Users\tofiq\Desktop\ab104-18-10-23\ab104-18-10-23\ab104-18-10-23\bin\Debug\net6.0\ab104-18-10-23.runtimeconfig.json
+C:\Users\tofiq\Desktop\ab104-18-10-23\ab104-18-10-23\ab104-18-10-23\bin\Debug\net6.0\ab104-18-10-23.dll
+C:\Users\tofiq\Desktop\ab104-18-10-23\ab104-18-10-23\ab104-18-10-23\bin\Debug\net6.0\ab104-18-10-23.pdb
+C:\Users\tofiq\Desktop\ab104-18-10-23\ab104-18-10-23\ab104-18-10-23\obj\Debug\net6.0\ab104-18-10-23.dll
+C:\Users\tofiq\Desktop\ab104-18-10-23\ab104-18-10-23\ab104-18-10-23\obj\Debug\net6.0\refint\ab104-18-10-23.dll
+C:\Users\tofiq\Desktop\ab104-18-10-23\ab104-18-10-23\ab104-18-10-23\obj\Debug\net6.0\ab104-18-10-23.pdb
+C:\Users\tofiq\Desktop\ab104-18-10-23\ab104-18-10-23\ab104-18-10-23\obj\Debug\net6.0\ab104-18-10-23.genruntimeconfig.cache
+C:\Users\tofiq\Desktop\ab104-18-10-23\ab104-18-10-23\ab104-18-10-23\obj\Debug\net6.0\ref\ab104-18-10-23.dll
